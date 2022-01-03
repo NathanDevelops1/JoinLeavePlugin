@@ -1,0 +1,5 @@
+name: JoinLeavePLugin
+version: ${project.version}
+main: com.nathandevelops.joinleaveplugin.JoinLeavePLugin
+api-version: 1.17
+description: Join and Leave Plugin
